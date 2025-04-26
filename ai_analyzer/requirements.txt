@@ -1,0 +1,14 @@
+# ── çekirdek
+numpy<2.0
+torch==2.2.2        # veya CUDA’lı tekerlek: torch==2.2.2+cu118
+transformers==4.44.0
+sentencepiece
+
+# ── servis
+fastapi==0.111.0
+uvicorn[standard]==0.29.0
+
+# ── açıklanabilirlik
+safetensors
+captum==0.7.0
+pydantic

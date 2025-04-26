@@ -1,0 +1,12 @@
+KURBAN SATIŞ YERİ KURBAN KESİM YERİ
+ilce ADI SOYADI TÜR ADRES İLETİŞİM ADI SOYADI TÜR ADRES İLETİŞİM
+Maden Mah. (Acar Maden Mah. (Acar
+Kurban Satış Yeri Kurban Kesim Yeri
+Vilları Karşısı) Vilları Karşısı)
+Ayazağa Mah. (Koton Ayazağa Mah. (Koton
+Kurban Satış Yeri Otopark Kurban Kesim Yeri
+Mağazası otoparkı) Mağazası otoparkı)
+Ayazağa Mah. (Zorlu Ayazağa Mah. (Zorlu
+Kurban Satış Yeri Kurban Kesim Yeri
+İnşaat Karşısı) İnşaat Karşısı)
+REYIRAS

@@ -1,0 +1,97 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Eğer projen PyInstaller kullanıyorsa, çıkış klasörleri:
+dist/
+build/
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+
+# MyPy
+.mypy_cache/
+
+# Pyre
+.pyre/
+
+# Pytype
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv/
+
+# VS Code gibi editör dosyaları
+.vscode/
+*.code-workspace
+
+# Jupyter Notebook dosyaları için
+.ipynb_checkpoints/
+
+# MacOS dosyaları
+.DS_Store
+
+# Logs
+*.log
+
+# dotenv
+.env
+.env.*
+
+# Local database
+*.sqlite3
+*.db
+
+# diğer
+*.pkl
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.safetensors
+*.h5
+*.hdf5
+*.pth
+*.pkl
+*.ckpt
